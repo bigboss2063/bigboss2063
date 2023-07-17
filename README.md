@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**bigboss2063/bigboss2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bigboss2063&theme=github)
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Bruce Chen, you can call me bigboss or bb.
+
+I am a second-year graduate student majoring in computer science. I am very interested in system programming and database kernel, and I hope to work in this field in the future.
+
+The reason I am called “bigboss” is that I am a big fan of the Metal Gear Solid games.
+
+### Projects
+
+I’m currently working on [CouloyDB](https://github.com/Kirov7/CouloyDB) as a maintainer and I want to make this a production level project.
+
+I'm getting ready to participate in [nutsdb](https://github.com/nutsdb/nutsdb).
+
+### Contact Me
+
+If you want to get in touch, feel free to send me an email at `bigboss2063@outlook.com`.
