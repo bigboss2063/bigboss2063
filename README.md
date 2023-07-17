@@ -4,11 +4,9 @@
 
 ### About me
 
-My name is Bruce Chen, you can call me bigboss or bb.
+My name is Bruce Chen, you can call me bigboss or bb.The reason I am called “bigboss” is that I am a big fan of the Metal Gear Solid games.
 
 I am a second-year graduate student majoring in computer science. I am very interested in system programming and database kernel, and I hope to work in this field in the future.
-
-The reason I am called “bigboss” is that I am a big fan of the Metal Gear Solid games.
 
 ### Projects
 
