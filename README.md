@@ -8,11 +8,13 @@ My name is Bruce Chen, you can call me bigboss or bb.The reason I am called “b
 
 I am a second-year graduate student majoring in computer science. I am very interested in system programming and database kernel, and I hope to work in this field in the future.
 
+Besides coding, my favorite thing in life is listening to music, especially r&b. David Tao and Dean Ting are my favorite singers.
+
 ### Projects
 
-I’m currently working on [CouloyDB](https://github.com/Kirov7/CouloyDB) as a maintainer and I want to make this a production level project.
+I’m currently working on [CouloyDB](https://github.com/Kirov7/CouloyDB) as a maintainer and I want to make this a production level project 🤨.
 
-I'm getting ready to participate in [nutsdb](https://github.com/nutsdb/nutsdb).
+I'm also working on [nutsdb](https://github.com/nutsdb/nutsdb), and I hope one day I can be a maintainer of nutsdb 😄.
 
 ### Contact Me
 
