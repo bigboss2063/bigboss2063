@@ -14,7 +14,7 @@ Besides coding, my favorite thing in life is listening to music, especially r&b.
 
 I’m currently working on [CouloyDB](https://github.com/Kirov7/CouloyDB) as a maintainer and I want to make this a production level project 🤨.
 
-I'm also working on [nutsdb](https://github.com/nutsdb/nutsdb) as a newly promoted maintainer.
+I'm also working on [nutsdb](https://github.com/nutsdb/nutsdb) as a newly promoted maintainer. In the future, I will optimize nutsdb one step further, and add some paper practice to nutsdb.
 
 In the future, I think I will participate more in some distributed or time series database projects, instead of limiting myself to only storage engines.
 
