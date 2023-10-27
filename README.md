@@ -12,11 +12,11 @@ Besides coding, my favorite thing in life is listening to music, especially r&b.
 
 ### Projects
 
-I’m currently working on [CouloyDB](https://github.com/Kirov7/CouloyDB) as a maintainer and I want to make this a production level project 🤨.
+I'm currently working on [nutsdb](https://github.com/nutsdb/nutsdb) as a maintainer. In the future, I will optimize nutsdb one step further, and add some paper practice to nutsdb.
 
-I'm also working on [nutsdb](https://github.com/nutsdb/nutsdb) as a newly promoted maintainer. In the future, I will optimize nutsdb one step further, and add some paper practice to nutsdb.
+Now I'm really interested in Rust, wanting to participate in some database projects written in Rust.
 
-In the future, I think I will participate more in some distributed or time series database projects, instead of limiting myself to only storage engines.
+Otherwise, I think I will participate more in some distributed or time series database projects, instead of limiting myself to only storage engines.
 
 ### Contact Me
 
