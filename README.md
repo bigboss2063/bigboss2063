@@ -6,7 +6,7 @@
 
 My name is Bruce Chen, you can call me bigboss or bb.The reason I am called “bigboss” is that I am a big fan of the Metal Gear Solid games.
 
-I am a second-year graduate student majoring in computer science. I am very interested in system programming and database kernel, and I hope to work in this field in the future.
+I am a third-year postgraduate student majoring in computer science. I am very interested in system programming and database kernel, and I hope to work in this field in the future.
 
 Besides coding, my favorite thing in life is listening to music, especially r&b. David Tao and Dean Ting are my favorite singers.
 
