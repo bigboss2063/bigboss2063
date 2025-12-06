@@ -4,19 +4,17 @@
 
 ### About me
 
-My name is Bruce Chen, you can call me bigboss or bb.The reason I am called “bigboss” is that I am a big fan of the Metal Gear Solid games.
+My name is Bruce Chen, you can call me bigboss or bb. The reason I am called "bigboss" is that I am a big fan of the Metal Gear Solid games.
 
-I am a third-year postgraduate student majoring in computer science. I am very interested in system programming and database kernel, and I hope to work in this field in the future.
+I am a backend development engineer. ~~I am very interested in system programming and database kernel, and I hope to work in this field in the future.~~ (I failed. 😥)
 
-Besides coding, my favorite thing in life is listening to music, especially r&b. David Tao and Dean Ting are my favorite singers.
+Besides coding, my favorite thing in life is listening to music, especially r&b. Khalil Fong and Dean Ting are my favorite singers.
 
 ### Projects
 
 I'm currently working on [nutsdb](https://github.com/nutsdb/nutsdb) as a maintainer. In the future, I will optimize nutsdb one step further, and add some paper practice to nutsdb.
 
-Now I'm really interested in Rust, wanting to participate in some database projects written in Rust.
-
-Otherwise, I think I will participate more in some distributed or time series database projects, instead of limiting myself to only storage engines.
+I am currently passionate about developing AI Agent systems. Perhaps this is a direction for the future.
 
 ### Contact Me
 
